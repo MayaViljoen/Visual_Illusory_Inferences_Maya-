@@ -47,7 +47,7 @@ Predict: fallacy rates to be lower than linguistic paradigm.
 
 ## Welcome text
 
-**FAMILIARIZATION phase: **
+**FAMILIARIZATION phase:**
 
 * Fam 1: Teaches that, if the path is unobstructed,  water flows from the tap a the top to the bottom 
 * Fam 2: Teaches that, if the path is obstructed,  water flow stops until path bridge is removed again

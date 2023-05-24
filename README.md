@@ -47,11 +47,7 @@ Predict: fallacy rates to be lower than linguistic paradigm.
 
 ## Welcome text
 
-**Familiarization**
-
-  'You will be presented some videos. Watch them carefully and press continue to move on. '
-
-**FAMILIARIZATION phase: contains 5 scenes - Single branch pipe introducing the gates, the bridge and the occluders. A button CONTINUE will appear on the screen and be active once the movie ended**
+**FAMILIARIZATION phase: **
 
 * Fam 1: Teaches that, if the path is unobstructed,  water flows from the tap a the top to the bottom 
 * Fam 2: Teaches that, if the path is obstructed,  water flow stops until path bridge is removed again
@@ -60,7 +56,6 @@ Predict: fallacy rates to be lower than linguistic paradigm.
 * Fam 5: Teaches that, there exists a non-functional gate, whose state can not be changed, obstructing water flow permanently 
 
 
-Familiarization Trials : 1-5****will b same for this exp
 ## Condition change between participants.
 Mirrored: to avoid the confounding factor of  LHS bias 
 
@@ -96,8 +91,8 @@ Exclude those that say no/ add follow up question for those that said I don’t 
 
 # Controls: Accuracy in static controls and yes control animations: static controls presented 
 
-
-
+## This code is the script for the TestTrial with the gate opening inwards and the YesControl on the LHS. 
+## To see other conditions edit the html group number accordingly 
 
 To access HTML CLICK here
 

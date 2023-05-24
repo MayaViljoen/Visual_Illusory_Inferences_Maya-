@@ -4,8 +4,34 @@
 				Story Board Visual Illusory Inferences 
 
 
-## GOALS:
+# Context: 
 
+* The problem is :
+(a and b) or c
+a 
+
+The fallacy is : People are more likely to choose b
+First premise there exist two alternative possibilities: a and b or c
+Then given the second premise ‘a’, this creates a question answer dynamic, drawing reasoners to former possibility. 
+
+The question is: Is this fallacy evoked in a purely visual paradigm? 
+     What role does language play in this fallacious reasoning? 
+
+Chung et al. showed that such visual paradigms induce similar reasoning fallacies & even in a non linguistic paradigm : Question-Answer dynamics are taking place. 
+
+
+## GOALS:
+The goal is to present a visual paradigm conveying the structure of illusory inferences from disjunction. 
+In Ana Martin’s research project, we present two paths through which water can flow, using gates to set up a similar logical structure of the two alternative possibilities.  
+In this paradigm : The previous issue of asymmetry is addressed with the bridge. 
+We shall see, adding evidence that the LHS gate opens, acts as the second premise in our linguistic example. 
+
+
+
+The aim of this study : To see whether non linguistic visual paradigms  can trigger reasoning with alternative possibilities// question answer dynamics , ultimately creating a paradigm that can be used to test adults and pre-linguistic infants. 
+Predictions: Higher fallacy rate in target trials than in baseline// no controls 
+Predict fallacy rates to be lower than linguistic paradigm
+New element of participants : simulating forward (paradigm can be applied to babies using eye-tracker)
 
 To see whether non linguistic visual paradigms  can trigger reasoning with alternative possibilities// question answer dynamics 
 
@@ -68,17 +94,9 @@ Baseline Subtraction: Exclude those that say yes ?
 Exclude those that say no/ add follow up question for those that said I don’t know
 
 
-## Controls: Accuracy in static controls and yes control animations: static controls presented 
+# Controls: Accuracy in static controls and yes control animations: static controls presented 
 
 
-## Disjunctive Trial & Target trial  
- 
-Do we show the outcome here, surely since this is a test trial involving reasoning in terms of past possibility the participant should see the outcome?
-
-
-**No Control future**
-A similar question here, showing the outcome (3 parallel gates)
-By representing the outcome but asking a future question, this confuses me, as the particpant is aware that the water has already come through (some sort of past representation), yet must predict whether J is guaranteed to open 
 
 
 To access HTML CLICK here

@@ -68,12 +68,7 @@ Baseline Subtraction: Exclude those that say yes ?
 Exclude those that say no/ add follow up question for those that said I don’t know
 
 
- 
-
-
 ## Controls: Accuracy in static controls and yes control animations: static controls presented 
-
-
 
 
 ## Disjunctive Trial & Target trial  
@@ -84,3 +79,8 @@ Do we show the outcome here, surely since this is a test trial involving reasoni
 **No Control future**
 A similar question here, showing the outcome (3 parallel gates)
 By representing the outcome but asking a future question, this confuses me, as the particpant is aware that the water has already come through (some sort of past representation), yet must predict whether J is guaranteed to open 
+
+
+To access HTML CLICK here
+
+https://mayaviljoen.github.io/Visual_Illusory_Inferences_Maya-/VSMV/mpa-a.html 

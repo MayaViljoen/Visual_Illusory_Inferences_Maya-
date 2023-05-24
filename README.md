@@ -89,8 +89,7 @@ Baseline Subtraction: Exclude those that say yes ?
 Exclude those that say no/ add follow up question for those that said I don’t know
 
 
-# Controls: Accuracy in static controls and yes control animations: static controls presented 
-
+## Controls: Accuracy in static controls and yes control animations: static controls presented 
 ## This code is the script for the TestTrial with the gate opening inwards and the YesControl on the LHS. 
 ## To see other conditions edit the html group number accordingly 
 

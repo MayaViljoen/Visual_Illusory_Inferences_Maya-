@@ -90,9 +90,10 @@ Exclude those that say no/ add follow up question for those that said I don’t 
 
 
 ## Controls: Accuracy in static controls and yes control animations: static controls presented 
-## This code is the script for the TestTrial with the gate opening inwards and the YesControl on the LHS. 
-## To see other conditions edit the html group number accordingly 
 
-To access HTML CLICK here
+* This code is the script for the TestTrial with the gate opening inwards and the YesControl on the LHS. 
+* To see other conditions edit the html group number accordingly 
+
+To access HTML CLICK here:
 
 https://mayaviljoen.github.io/Visual_Illusory_Inferences_Maya-/VSMV/mpa-a.html 
